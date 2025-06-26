@@ -1,0 +1,17 @@
+2025-06-26 14:21:54.312577 - [InferenceNode] Prediction: Negative, Confidence: 0.63
+2025-06-26 14:21:54.313578 - [ConfidenceCheckNode] Low confidence (0.63). Triggering fallback...
+2025-06-26 14:22:11.186806 - [FallbackNode] User clarification applied. Final Prediction: Negative
+2025-06-26 14:22:23.978651 - [InferenceNode] Prediction: Positive, Confidence: 0.67
+2025-06-26 14:22:23.979651 - [ConfidenceCheckNode] Low confidence (0.67). Triggering fallback...
+2025-06-26 14:22:37.429645 - [FallbackNode] User clarification applied. Final Prediction: Positive
+2025-06-26 14:22:49.279936 - [InferenceNode] Prediction: Positive, Confidence: 0.68
+2025-06-26 14:22:49.280934 - [ConfidenceCheckNode] Low confidence (0.68). Triggering fallback...
+2025-06-26 14:22:56.890167 - [FallbackNode] User clarification applied. Final Prediction: Negative
+2025-06-26 14:26:07.619151 - [InferenceNode] Prediction: Negative, Confidence: 0.60
+2025-06-26 14:26:20.865397 - [InferenceNode] Prediction: Negative, Confidence: 0.62
+2025-06-26 14:26:36.436526 - [InferenceNode] Prediction: Positive, Confidence: 0.68
+2025-06-26 14:26:56.511117 - [InferenceNode] Prediction: Positive, Confidence: 0.71
+2025-06-26 15:27:20.758933 - [InferenceNode] Prediction: Positive, Confidence: 0.66
+2025-06-26 15:27:34.316263 - [InferenceNode] Prediction: Negative, Confidence: 0.64
+2025-06-26 15:27:59.051421 - [InferenceNode] Prediction: Positive, Confidence: 0.56
+2025-06-26 15:29:28.301765 - [InferenceNode] Prediction: Negative, Confidence: 0.65
